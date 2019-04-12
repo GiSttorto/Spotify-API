@@ -17,6 +17,4 @@ jQuery & AJAX
 <h2>Preview</h2>
 
 
-<img src="https://media.giphy.com/media/5torClpHUXUL3W4eCC/giphy.gif" height="400px" width="700px" >
-
-![](https://media.giphy.com/media/5torClpHUXUL3W4eCC/giphy.gif)
+https://media.giphy.com/media/5torClpHUXUL3W4eCC/giphy.gif
