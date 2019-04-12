@@ -16,7 +16,4 @@ jQuery & AJAX
 
 <h2>Preview</h2>
 
-
-<video src=".desktop/videos/test.mp4" width="320" height="240" autoplay></video>
-
-https://media.giphy.com/media/5torClpHUXUL3W4eCC/giphy.gif
+<img src="https://media.giphy.com/media/5torClpHUXUL3W4eCC/giphy.gif" height="400px" width="750">
