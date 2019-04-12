@@ -1,7 +1,7 @@
 # Spotify-API
 
 <h2>Overview</h2>
-An interface that allows users to search their favorite artists and albums. Here we could not use AJAX directly as now Spotify requires authentication to make a request. So here I used an URL that I passed to it all of the query strings parameters as an usual request. This URL will make a request to the Spotify search API with the parameters I specify and send back the exact JSON that Spotify responds with. Clicking any search result will redirect the user to the related artist/album's Spotify page.
+An interface that allows users to search artists and albums as they would do with Spotify using AJAX to make requests to the API. Clicking any search result will redirect the user to the related artist/album's Spotify page.
 
 
 <h2>Features</h2>
