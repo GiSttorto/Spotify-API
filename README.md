@@ -16,4 +16,8 @@ jQuery & AJAX
 
 <h2>Preview</h2>
 
-<img src="https://media.giphy.com/media/5torClpHUXUL3W4eCC/giphy.gif" height="400px" width="750">
+<img src="https://media.giphy.com/media/5torClpHUXUL3W4eCC/giphy.gif" height="400px" width="750px">
+
+<img src="https://media.giphy.com/media/2UH50XgqqS9g3420Mu/giphy.gif" height="400px" width="750px">
+
+<img src="https://media.giphy.com/media/3rYN87E2zBlqvZjI8B/giphy.gif" height="400px" width="750px">
