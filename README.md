@@ -5,10 +5,12 @@ An interface that allows users to search artists and albums as they would do wit
 
 
 <h2>Features</h2>
+<ul>
 - A message will display if there are no results for a search.
 - A default image will display for results that do not have any images.
 - Infinite scroll is possible.
     - Infinite scroll allows the user to scroll down to the bottom of the listed results and the next page of results will automatically be loaded and appended to the latest results. As part of this functionality, the 'More' button disappears.
+</ul>
 
 <h2>Technology</h2>
 jQuery & AJAX
