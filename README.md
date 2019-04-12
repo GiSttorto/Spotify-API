@@ -15,3 +15,5 @@ jQuery & AJAX
 
 
 <h2>Preview</h2>
+
+![](https://media.giphy.com/media/5torClpHUXUL3W4eCC/giphy.gif)
