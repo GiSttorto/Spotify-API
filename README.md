@@ -21,8 +21,17 @@ jQuery & AJAX
 
 <h2>Preview</h2>
 
+<h3><b>search for artists</b></h3>
 <img src="https://media.giphy.com/media/5torClpHUXUL3W4eCC/giphy.gif" height="400px" width="750px">
 
+<br />
+<br />
+
+<h3><b>No Results Found</b></h3>
 <img src="https://media.giphy.com/media/2UH50XgqqS9g3420Mu/giphy.gif" height="400px" width="750px">
 
+<br />
+<br />
+
+<h3><b>Redirect to Spotify Page</b></h3>
 <img src="https://media.giphy.com/media/3rYN87E2zBlqvZjI8B/giphy.gif" height="400px" width="750px">
